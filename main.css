@@ -1,14 +1,16 @@
 header {
   background: url(images/to-do.jpg) center / cover;
-  height: 100vh;
+  height: 800px;
   justify-content: center;
   text-align: center;
+  margin-top: 0px;
+  padding-top: 0px;
 }
 
-.title {
-  padding-top: 100px;
+h1 {
+  padding-top: 300px;
 }
 
-.addToDoForm {
-  padding-top: 1500px;
+form {
+  padding-top: 50px;
 }
